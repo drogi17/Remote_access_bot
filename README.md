@@ -9,4 +9,4 @@
 - pip3 install PyInstaller
 
 #To executable file
-pyinstaller -F --noconsole main.py 
+-pyinstaller -F --noconsole main.py 
